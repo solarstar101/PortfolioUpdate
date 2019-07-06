@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name":"Mario Merino",
+    "occupation":"Front End Developer",
+    "description":"During my free time i enjoy reading books and improving my skills feel free to look around!",
+    "image":"profilepic.jpg",
+    "bio":"My name is Mario Merino.  I am a Web Developer by trade and an ok Mechanic/Photographer in my free time.  I was one of the first hires at a successful startup and learned their stack quickly and efficiently. I’m passionate about technology - not a specific framework or language. In this line of work, it's about adaptation, and what works best for the project. I’m open to learning any stack if it works.",
+    "contactmessage":"Let create something special together!",
+    "email": "mmerino1010@protonmail.com",
+    "phone": "713-264-1104",
+    "address":{
+      "street":"(8927 sage place dr)",
+      "city":"Houston",
+      "state":"Texas",
+      "zip": "77071"
+    },
+    "website": "http://www.marioalbertomerino.com",
+    "resumedownload":"http://s000.tinyupload.com/?file_id=31465798149398729398",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"San Jacinto College",
+        "degree":"Associate in Computer Technology",
+        "graduated":"2015-present",
+        "description":" Thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I had a knack for web development"
+      }
+    ],
+    "work":[
+      {
+        "company":"Auto Parts Outlet",
+        "title":"Web Developer/Online Marketing Advisor ",
+        "years":"Nov 2017 - Present",
+        "description":"Currently responsbile for marketing and maintaining current APO website. Currently developing an E-Commerce site, that will allow our b2b customers to select body part items from a specific store inventory and see item details such as QTY,COST,CERTIFICATION ETC... "
+      },
+      {
+        "company":"Find-Marketing",
+        "title":"Web Developer",
+        "years":"Dec 2015 - Nov 2017",
+        "description":" Created several websites for different clients would meet with client to design goals for application and how it would be laid out this would include discussion in graphic design and digital marketing strategies for small businesses. Consulting & helping clients to increase web presence. "
+      },
+      {
+        "company":"Russell & Smith Honda",
+        "title":"Internal Service Manager",
+        "years":"March 2013 - Dec 2015",
+        "description":"Managed Used and New Car Services at the dealership also tasked with implementing appropriate Negotiated cost for both parts and services within the dealer and with outside repair shops. Maintained high customer satisfaction for clients who just purchased a new or used car and had unforeseen repairs."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"The Light Photography",
+        "category":"Photography site with SEO enhancements",
+        "image":"thelightphotography.jpg",
+        "url":"https://www.thelightphotography.com"
+      },
+      {
+        "title":"Cakes & Butterflys",
+        "category":"Simple static website for local bakery",
+        "image":"CakesButterflys.jpg",
+        "url":"http://www.cakesbutterflys.com"
+      },
+      {
+        "title":"Novak Law",
+        "category":"Website I built for a local lawyer!",
+        "image":"NovakLaw.jpg",
+        "url":"http://www.novaklaw.org/"
+      },
+      {
+        "title":"Thai Restaurant",
+        "category":"A React based thai restaurant with checkout",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.google.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
+  
