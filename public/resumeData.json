@@ -76,13 +76,13 @@
         "title":"The Light Photography",
         "category":"Photography site with SEO enhancements",
         "image":"thelightphotography.jpg",
-        "url":"https://www.thelightphotography.com"
+        "url":"https://fervent-goldstine-6db215.netlify.com"
       },
       {
         "title":"Cakes & Butterflys",
         "category":"Simple static website for local bakery",
         "image":"CakesButterflys.jpg",
-        "url":"http://www.cakesbutterflys.com"
+        "url":"https://youthful-albattani-dba3a0.netlify.com/"
       },
       {
         "title":"Novak Law",
@@ -94,13 +94,13 @@
         "title":"Thai Restaurant",
         "category":"A React based thai restaurant with checkout",
         "image":"original-thai-food.jpg",
-        "url":"http://www.google.com"
+        "url":"https://react-simplephonestore.netlify.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Mobile Car Care",
+        "category":"Mobile detailing company customers can checkout and schedule appointments on open dates",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://react-simplephonestore.netlify.com"
       }
     ]
   }
