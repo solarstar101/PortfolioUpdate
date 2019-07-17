@@ -25,17 +25,17 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/arevalo_visuals",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/solarstar101",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"http://skype.com/mmerino1010",
         "className":"fa fa-skype"
       }
     ]
@@ -91,16 +91,10 @@
         "url":"http://www.novaklaw.org/"
       },
       {
-        "title":"Thai Restaurant",
-        "category":"A React based thai restaurant with checkout",
-        "image":"original-thai-food.jpg",
-        "url":"https://react-simplephonestore.netlify.com"
-      },
-      {
-        "title":"Mobile Car Care",
-        "category":"Mobile detailing company customers can checkout and schedule appointments on open dates",
-        "image":"smirkspace.jpg",
-        "url":"https://react-simplephonestore.netlify.com"
+        "title":"Sushi Restaurant",
+        "category":"A React based sushi restaurant with checkout",
+        "image":"Sushi.png",
+        "url":"https://focused-villani-02d952.netlify.com/#/"
       }
     ]
   }
