@@ -112,7 +112,6 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
 		position: relative;
       border: none;
       float: right;
@@ -353,10 +352,13 @@
    header .banner-text h1 {
       font: 40px/1.1em 'opensans-bold', sans-serif;      
       margin: 0 auto 24px auto;
+      font-weight: 600;
    }
    header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+      font: 16px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
+      font-weight: 600;
+
    }
   
    /* header social links */
