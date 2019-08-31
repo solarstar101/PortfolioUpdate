@@ -7,9 +7,8 @@
     "bio":"My name is Mario Merino.  I am a Web Developer by trade and an ok Mechanic/Photographer in my free time.  I was one of the first hires at a successful startup and learned their stack quickly and efficiently. I’m passionate about technology - not a specific framework or language. In this line of work, it's about adaptation, and what works best for the project. I’m open to learning any stack if it works.",
     "contactmessage":"Let create something special together!",
     "email": "mmerino1010@protonmail.com",
-    "phone": "713-264-1104",
+    "phone": "Please Text: 713-264-1104",
     "address":{
-      "street":"(8927 sage place dr)",
       "city":"Houston",
       "state":"Texas",
       "zip": "77071"
@@ -50,6 +49,12 @@
       }
     ],
     "work":[
+      {
+        "company":" University of Texas Health Science Center ",
+        "title":"Web Developer III ",
+        "years":"Aug 2019 - Present",
+        "description":"Currently responsbile for planning and developing new web apps at UT Health,from wireframing to deployment i meet with department heads to discuss details and feautures. I am also resposible for maintaining and updating all of UT Health websites as well as analyzing traffic with google analytics and planning out marketing strategies" 
+      },
       {
         "company":"Auto Parts Outlet",
         "title":"Web Developer/Online Marketing Advisor ",

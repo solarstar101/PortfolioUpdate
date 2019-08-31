@@ -4,9 +4,11 @@ class Resume extends Component {
   render() {
 
     if(this.props.data){
-      var education = this.props.data.education.map(function(education){
-        return <div key={education.school}><h3>{education.school}</h3>
-        <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
+      var education = this.props.data.education.map((education) => {
+        return <div key={education.school}>
+        <h3>{education.school}</h3>
+        <p className="info">{education.degree} <span>&bull;</span>
+        <em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
       })
       var work = this.props.data.work.map(function(work){
@@ -50,8 +52,6 @@ class Resume extends Component {
 
 
 
-
-
     <div class="row skill">
     <div class="three columns header-col">
     <h1><span>Favorite Tech</span></h1>
@@ -85,7 +85,7 @@ class Resume extends Component {
     <div class="columns feature-item">
     <img class="skill" alt="Meteor JS" src="images/tech/meteor.jpg"/>
     <h5>Meteor JS</h5>
-    <p>I enjoy Meteor for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)</p>
+    <p>I enjoy using Meteor for it's ease of use and simplicity, i feel it is a perfect way to get a web app up and running quickly and efficiently for a client. before going into production! I am currently using meteor  eeeeeeeeeeee eeeeeeeee eeeeeeee eeeeeeee eeeeeeee     </p>
     </div>
     <div class="columns feature-item">
     <img class="skill" alt="Node JS" src="images/tech/node.jpg"/>
