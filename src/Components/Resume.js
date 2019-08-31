@@ -85,7 +85,7 @@ class Resume extends Component {
     <div class="columns feature-item">
     <img class="skill" alt="Meteor JS" src="images/tech/meteor.jpg"/>
     <h5>Meteor JS</h5>
-    <p>I enjoy using Meteor for it's ease of use and simplicity, i feel it is a perfect way to get a web app up and running quickly and efficiently for a client. before going into production! I am currently using meteor  eeeeeeeeeeee eeeeeeeee eeeeeeee eeeeeeee eeeeeeee     </p>
+    <p>I enjoy using Meteor for it's ease of use and simplicity, i feel it is a perfect way to get a web app up and running quickly and efficiently for a client. before going into production! I am currently using meteor at UTHealth to produce web apps for university staff </p>
     </div>
     <div class="columns feature-item">
     <img class="skill" alt="Node JS" src="images/tech/node.jpg"/>
