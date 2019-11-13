@@ -44,7 +44,6 @@
       {
         "school":"San Jacinto College",
         "degree":"Associate in Computer Technology",
-        "graduated":"2015-present",
         "description":" Thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I had a knack for web development"
       }
     ],
@@ -57,15 +56,15 @@
       },
       {
         "company":"Auto Parts Outlet",
-        "title":"Web Developer/Online Marketing Advisor ",
-        "years":"Nov 2017 - Present",
+        "title":General Manager Web Developer",
+        "years":"Nov 2017 - Aug 2019",
         "description":"I was responsbile for marketing and maintaining current APO website. Currently developing an E-Commerce site, that will allow our b2b customers to select body part items from a specific store inventory and see item details such as QTY,COST,CERTIFICATION ETC... "
       },
       {
         "company":"Find-Marketing",
         "title":"Web Developer",
-        "years":"Dec 2015 - Nov 2017",
-        "description":" Created several websites for different clients would meet with client to design goals for application and how it would be laid out this would include discussion in graphic design and digital marketing strategies for small businesses. Consulting & helping clients to increase web presence. "
+        "years":"Jan 2016 - Nov 2017",
+        "description":"Description: Designed Developed & Launched several websites using React as a preferred front end library would meet with customers either in person if local or via Skype in order to design and establish design & marketing goals for their website.Implemented SEO strategies and individual client website reporting regarding traffic trends,improper SEO strategies and missed opportunities with content,keywords,back-link gaps. Created or Redesigned several websites using a variety of Libraries,Languages,Frameworks."
       },
       {
         "company":"Russell & Smith Honda",
