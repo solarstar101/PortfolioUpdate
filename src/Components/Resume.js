@@ -84,7 +84,7 @@ class Resume extends Component {
 
     <div class="columns feature-item">
     <img class="skill" alt="Meteor JS" src="https://i.pinimg.com/originals/4c/b7/5b/4cb75bba270525ab419c4ad4d27e6ebe.png"/>
-    <h5>Meteor JS</h5>
+    <h5>Python</h5>
     <p>I enjoy using Python for it's ease of use and simplicity, i feel it is a perfect way to get a web app up and running quickly and efficiently recently i have begun using python to create web application using React in the front-end and using flask/python in the back-end </p>
     </div>
     <div class="columns feature-item">
