@@ -112,6 +112,24 @@
   "portfolio": {
     "projects": [
       {
+        "title": "React Palette Generator",
+        "category": "A React based palette generator using local storage",
+        "image": "ReactPalette.jpg",
+        "url": "https://silly-johnson-47bce1.netlify.com/"
+      },
+      {
+        "title": "React Sorting Algorithm App",
+        "category": "React Sorting Algorithm visualizer react-hooks and styled components",
+        "image": "ReactSorting.jpg",
+        "url": "https://laughing-feynman-96fb8b.netlify.com/index.html"
+      },
+      {
+        "title": "Sushi Restaurant",
+        "category": "A React based sushi restaurant with checkout",
+        "image": "Sushi.png",
+        "url": "https://focused-villani-02d952.netlify.com/#/"
+      },
+      {
         "title": "The Light Photography",
         "category": "Photography site with SEO enhancements",
         "image": "thelightphotography.jpg",
@@ -122,18 +140,6 @@
         "category": "Website for local houston lawyer!",
         "image": "NovakLaw.jpg",
         "url": "http://www.novaklaw.org/"
-      },
-      {
-        "title": "React Sorting Algorithm App",
-        "category": "Sorting Algorithm visualizer using react + react-hooks and styled components",
-        "image": "ReactSorting.jpg",
-        "url": "https://laughing-feynman-96fb8b.netlify.com/index.html"
-      },
-      {
-        "title": "Sushi Restaurant",
-        "category": "A React based sushi restaurant with checkout",
-        "image": "Sushi.png",
-        "url": "https://focused-villani-02d952.netlify.com/#/"
       }
     ]
   }
