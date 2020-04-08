@@ -51,17 +51,17 @@
         "company": " University of Texas Health Science Center ",
         "title": "Web Developer III ",
         "years": "Aug 2019 - Present",
-        "description": "Responsible for creating new web applications to be used internally by the university by staff and students while maintaining WCAG 2.0 Accessibility AA Working within dotCMS using a headless cms approach to create and implement different functionality to web pages."
+        "description": "Responsible for creating new web applications to be used internally by the university by staff and students while maintaining WCAG 2.0 Accessibility AA Working within dotCMS using a headless cms approach to create and implement different functionality to web pages and web applications with react on the frontend."
       },
       {
-        "company": "Auto Parts Outlet",
-        "title": "General Manager Web Developer",
+        "company": "LKQ Corporation",
+        "title": "Front End Engineer",
         "years": "Nov 2017 - Aug 2019",
-        "description": "Responsible for technical SEO and maintaining LKQ websites fixing bugs and applying updates and adding features as needed, tasked with creating front end interface of a b2b e-commerce website for APO division."
+        "description": "Responsible for technical SEO and maintaining LKQ websites fixing bugs and applying updates and adding features as needed, tasked with creating front end interface of a b2b web application for APO division."
       },
       {
         "company": "Find-Marketing",
-        "title": "Web Developer",
+        "title": "Front End Developer",
         "years": "Dec 2015 - Nov 2017",
         "description": "Designed Developed & Launched several web applications using various technologies but mostly worked with React, Node, and Redux. Worked on several large and small scale applications focusing on maintenance, security, and efficiency of different web applications focused on making pages highly scalable and created high traffic solutions."
       }
