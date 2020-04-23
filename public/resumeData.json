@@ -22,11 +22,6 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/arevalo_visuals",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "https://github.com/solarstar101",
         "className": "fa fa-github"
