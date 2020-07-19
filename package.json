@@ -8,7 +8,7 @@
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
     "react-scripts": "1.0.17",
-    "lodash": ">=4.17.14"
+    "lodash": ">=4.17.19"
   },
   "devDependencies": {
     "lodash.template": ">=4.5.0"
