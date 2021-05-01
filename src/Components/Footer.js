@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2019 Mario Merino</li>
+              <li>&copy; Copyright 2021 Mario Merino</li>
            </ul>
 
         </div>

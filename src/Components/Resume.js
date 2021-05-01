@@ -31,9 +31,8 @@ class Resume extends Component {
       var skills = this.props.data.skills.map((skill, i) => {
         return i <= 3 ? (
           <div key={skill.name} className="columns feature-item">
-            <img class="skill" alt={skill.name} src={skill.image} />
+            <img  style={{width: '12rem' , height:'12rem'}} class="skill" alt={skill.name} src={skill.image} />
             <h5>{skill.name}</h5>
-            <p>{skill.description}</p>
           </div>
         ) : null;
       });
@@ -41,9 +40,8 @@ class Resume extends Component {
       var skills2 = this.props.data.skills.map((skill, i) => {
         return i >= 4 ? (
           <div key={skill.name} className="columns feature-item">
-            <img class="skill" alt={skill.name} src={skill.image} />
+            <img style={{width: '12rem' , height:'12rem'}} class="skill" alt={skill.name} src={skill.image} />
             <h5>{skill.name}</h5>
-            <p>{skill.description}</p>
           </div>
         ) : null;
       });
@@ -82,10 +80,9 @@ class Resume extends Component {
             </h1>
           </div>
 
-          <div class="nine columns main-col">
+          <div id="portfoliolink" class="nine columns main-col">
             <p class="lead center">
-              I'm a tinkerer and am always interested in playing around with new
-              technologies but these are the ones that have really won me over
+             I love trying out new technologies regardless of language, these are a few i have used and enjoyed however i am always looking forward to trying out new things
             </p>
           </div>
           <div className="row tech">

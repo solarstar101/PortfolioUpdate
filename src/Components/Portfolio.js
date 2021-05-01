@@ -10,6 +10,7 @@ class Portfolio extends Component {
             <div className="item-wrap">
               <a href={projects.url} title={projects.title}>
                 <img
+                style={{height:'15rem', width:'25rem'}}
                   alt={projects.title}
                   src={projectImage}
                   className="projects"
