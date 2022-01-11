@@ -38,14 +38,20 @@
       {
         "school": "San Jacinto College",
         "degree": "Associate in Computer Technology",
-        "description": " Thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I had a knack for web development"
+        "description": "Hired as part of the acquisition of Farmland Finder, responsible for frontend and some backend work with GCP."
       }
     ],
     "work": [
+         {
+        "company": "EasyKnock",
+        "title": "Software Engineer",
+        "years": "October 2020 - Present",
+        "description": "Responsible for creating new web applications to be used internally by the university by staff and students while maintaining WCAG 2.0 Accessibility AA Working within dotCMS using a headless cms approach to create and implement different functionality to web pages and web applications with react on the frontend."
+      },
       {
         "company": "Farmland Finder",
         "title": "Lead Frontend Engineer",
-        "years": "May 2020 - Present",
+        "years": "May 2020 - October 2020",
         "description": "Responsible for creating new web applications to be used internally by the university by staff and students while maintaining WCAG 2.0 Accessibility AA Working within dotCMS using a headless cms approach to create and implement different functionality to web pages and web applications with react on the frontend."
       },
       {
