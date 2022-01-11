@@ -113,18 +113,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "React Palette Generator",
-        "category": "A React based palette generator using local storage",
-        "image": "ReactPalette.jpg",
-        "url": "https://silly-johnson-47bce1.netlify.com/"
-      },
-      {
-        "title": "React Sorting Algorithm App",
-        "category": "React Sorting Algorithm visualizer react-hooks and styled components",
-        "image": "ReactSorting.jpg",
-        "url": "https://laughing-feynman-96fb8b.netlify.com/index.html"
-      },
-      {
         "title": "React Mapbox Widget",
         "category": "A React,Typescript and Mapbox widget created to display listings",
         "image": "WidgetMapbox.png",
