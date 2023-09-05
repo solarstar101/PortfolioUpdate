@@ -34,15 +34,16 @@ class Header extends Component {
          </ul>
 
       </nav>
-
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a <span>{city}</span> based <span>{occupation}</span>. {description}.</h3>
+            <h1 className="responsive-headline">Hello, Welcome I Am {name}</h1>
+
+            <h3> A versatile software engineer from {city} crafting the web with modern tech like Typescript, Next.js, Prisma, and more.
+             When I'm not coding, I immerse myself in books and continuous learning. Dive in to explore more"
+            
+            </h3>
             <hr />
-            <ul className="social">
-               {networks}
-            </ul>
+   
          </div>
       </div>
 

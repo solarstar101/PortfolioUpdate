@@ -4,7 +4,7 @@
     "occupation": "Front End Developer",
     "description": "During my free time i enjoy reading books and improving my skills feel free to look around!",
     "image": "profilepic.jpg",
-    "bio": "Strong Frontend and Full Stack Engineer with experienced understanding of the core programming fundamentals looking for a great opportunity to put my talents to use. Team player with good communication skills who is flexible and ready to work alongside a passionate team of developers. I live and breathe tech and am constantly honing my skills to solve bigger and better problems.",
+    "bio": "With over 8 years dedicated to perfecting user interfaces and 4 years diving deep into backend complexities, I've embraced the best of modern tech , including Typescript, Next.js, Prisma, and more.Beyond just code, I thrive in collaborative environments and pride myself on my ability to communicate and align with development teams. My dedication to the tech world doesn't stop at work; I'm always pushing boundaries, refining my skills, and seeking out the next big challenge in the ever-evolving digital landscape.",
     "contactmessage": "Let create something special together!",
     "email": "mariom8927@gmail.com",
     "phone": "Please email me for info",
@@ -34,15 +34,8 @@
     ]
   },
   "resume": {
-    "education": [
-      {
-        "school": "San Jacinto College",
-        "degree": "Associate in Computer Technology",
-        "description": "Hired as part of the acquisition of Farmland Finder, responsible for frontend and some backend work with GCP."
-      }
-    ],
     "work": [
-         {
+      {
         "company": "EasyKnock",
         "title": "Software Engineer",
         "years": "October 2020 - Present",

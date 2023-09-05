@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Resume extends Component {
   render() {
     if (this.props.data) {
-      var education = this.props.data.education.map(education => {
+      var education = this.props.data.education && this.props.data.education.map(education => {
         return (
           <div key={education.school}>
             <h3>{education.school}</h3>
@@ -49,7 +49,7 @@ class Resume extends Component {
 
     return (
       <section id="resume">
-        <div className="row education">
+        {/* <div className="row education">
           <div className="three columns header-col">
             <h1>
               <span>Education</span>
@@ -61,7 +61,7 @@ class Resume extends Component {
               <div className="twelve columns">{education}</div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="row work">
           <div className="three columns header-col">
