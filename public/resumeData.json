@@ -1,57 +1,53 @@
 {
   "main": {
     "name": "Mario Merino",
-    "occupation": "Front End Developer",
-    "description": "During my free time i enjoy reading books and improving my skills feel free to look around!",
+    "occupation": "Full Stack Developer",
+    "description": "During my free time i enjoy reading books, spending time with my son exploring houston and volunteering at my church",
     "image": "profilepic.jpg",
-    "bio": "With over 8 years dedicated to perfecting user interfaces and 4 years diving deep into backend complexities, I've embraced the best of modern tech , including Typescript, Next.js, Prisma, and more.Beyond just code, I thrive in collaborative environments and pride myself on my ability to communicate and align with development teams. My dedication to the tech world doesn't stop at work; I'm always pushing boundaries, refining my skills, and seeking out the next big challenge in the ever-evolving digital landscape.",
+    "bio": "With over 10 years of experience in crafting seamless user interfaces and 4 years tackling backend challenges, I bring a full-stack approach to every project. My toolkit includes modern technologies like TypeScript, Next.js, Prisma, Node.js, React, C#, .NET, and cloud services such as Azure, GCP, and AWS. I’ve worked extensively with complex data visualizations, charts, maps, and robust backend services. Beyond coding, I thrive in collaborative environments, excelling in communication and alignment with development teams. My passion for technology drives me to continually refine my skills and seek out the next challenge in the ever-evolving digital landscape.",
     "contactmessage": "Let create something special together!",
-    "email": "mariom8927@gmail.com",
+    "email": "malbertomarevalo@gmail.com",
     "phone": "Please email me for info",
     "address": {
-      "city": "Houston",
+      "city": "Sugarland",
       "state": "Texas",
-      "zip": "77071"
+      "zip": "77479"
     },
     "website": "http://www.marioalbertomerino.com",
     "resumedownload": "http://s000.tinyupload.com/?file_id=98192481747372386509",
     "social": [
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/mario-a-merino/",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "github",
         "url": "https://github.com/solarstar101",
         "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com/mmerino1010",
-        "className": "fa fa-skype"
       }
     ]
   },
   "resume": {
     "work": [
       {
+        "company": "Highland Homes",
+        "title": "Software Engineer",
+        "years": "January 2022 - Present",
+        "description": ""
+      },
+      {
         "company": "EasyKnock",
         "title": "Software Engineer",
-        "years": "October 2020 - Present",
-        "description": "Responsible for creating new web applications to be used internally by the university by staff and students while maintaining WCAG 2.0 Accessibility AA Working within dotCMS using a headless cms approach to create and implement different functionality to web pages and web applications with react on the frontend."
+        "years": "October 2021 - January 2022",
+        "description": ""
       },
       {
         "company": "Farmland Finder",
         "title": "Lead Frontend Engineer",
-        "years": "May 2020 - October 2020",
-        "description": "Responsible for creating new web applications to be used internally by the university by staff and students while maintaining WCAG 2.0 Accessibility AA Working within dotCMS using a headless cms approach to create and implement different functionality to web pages and web applications with react on the frontend."
+        "years": "May 2020 - October 2021",
+        "description": ""
       },
       {
         "company": " University of Texas Health Science Center ",
         "title": "Web Developer III ",
         "years": "Aug 2019 - May 2020",
-        "description": "Responsible for creating new web applications to be used internally by the university by staff and students while maintaining WCAG 2.0 Accessibility AA Working within dotCMS using a headless cms approach to create and implement different functionality to web pages and web applications with react on the frontend."
+        "description": ""
       },
       {
         "company": "LKQ Corporation",
