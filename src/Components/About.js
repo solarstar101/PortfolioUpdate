@@ -9,7 +9,7 @@ function About({ data }) {
   const city = data.address.city;
   const state = data.address.state;
   const zip = data.address.zip;
-  const resumeDownload = data.resumedownload;
+  const email = data.email;
 
   return (
     <section id="about">
@@ -30,9 +30,7 @@ function About({ data }) {
               <p className="address">
                 <span>{name}</span>
                 <br />
-                <span>
-                  {city} {state}, {zip}
-                </span>
+                <span>{email}</span>
                 <br />
               </p>
             </div>
