@@ -336,6 +336,31 @@ img.skill {
   padding-left: 2em;
   padding-right: 2em;
 }
+.feature-item {
+  text-align: center;
+  margin-top: 2.5em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.skill-img-container {
+  width: 15rem;
+  height: 15rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fafafa; /* Optional: helps define boundary */
+  border-radius: 1rem; /* Optional: makes it look modern */
+  overflow: hidden; /* Hide image overflow */
+}
+
+.skill-img-container img.skill {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* or 'cover' if you want to fill the box */
+  display: block;
+}
 
 /*----------------------------------------------*/
 /*	Skill Bars

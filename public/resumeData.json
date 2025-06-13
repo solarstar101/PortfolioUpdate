@@ -2,10 +2,10 @@
   "main": {
     "name": "Mario Merino",
     "occupation": "Full Stack Developer",
-    "description": "During my free time i enjoy reading books, spending time with my son exploring houston and volunteering at my church",
+    "description": "In my free time, I love exploring Houston with my son, reading, and volunteering at my church.",
     "image": "profilepic.jpg",
-    "bio": "With over 10 years of experience in crafting seamless user interfaces and 4 years tackling backend challenges, I bring a full-stack approach to every project. My toolkit includes modern technologies like TypeScript, Next.js, Prisma, Node.js, React, C#, .NET, and cloud services such as Azure, GCP, and AWS. I’ve worked extensively with complex data visualizations, charts, maps, and robust backend services. Beyond coding, I thrive in collaborative environments, excelling in communication and alignment with development teams. My passion for technology drives me to continually refine my skills and seek out the next challenge in the ever-evolving digital landscape.",
-    "contactmessage": "Let create something special together!",
+    "bio": "I am a full stack engineer with over 6 years of experience building scalable, accessible applications using React, TypeScript, Node.js, and cloud platforms like AWS and GCP. I have led distributed teams, mentored developers, and delivered robust solutions in fintech, proptech, and enterprise settings. My focus is on creating high-quality user experiences and collaborating effectively across teams.",
+    "contactmessage": "Let's create something great together!",
     "email": "malbertomarevalo@gmail.com",
     "phone": "Please email me for info",
     "address": {
@@ -26,98 +26,99 @@
   "resume": {
     "work": [
       {
-        "company": "Highland Homes",
-        "title": "Software Engineer",
-        "years": "January 2022 - Present",
-        "description": ""
+        "company": "Scientific Games",
+        "title": "Senior Software Engineer",
+        "years": "June 2022 - Present",
+        "description": "Engineered frontend lottery systems across multiple states, building scalable microservices and custom UIs using React, Redux, TypeScript, and Node.js. Automated developer workflows with CI/CD, integrated GitHub–Jira, maintained a component library in Storybook, and mentored junior engineers in a distributed team environment."
       },
       {
         "company": "EasyKnock",
-        "title": "Software Engineer",
-        "years": "October 2021 - January 2022",
-        "description": ""
+        "title": "Full Stack Developer",
+        "years": "August 2021 - June 2022",
+        "description": "Led development of a modern refinancing platform using React, TypeScript, Node.js, and Prisma. Built cross-platform mobile and web apps, improved API performance, and integrated acquired product assets for a seamless user experience."
       },
       {
         "company": "Farmland Finder",
-        "title": "Lead Frontend Engineer",
-        "years": "May 2020 - October 2021",
-        "description": ""
+        "title": "Lead Front End Developer",
+        "years": "May 2020 - July 2021",
+        "description": "Architected and launched a geospatial farmland marketplace using React, TypeScript, Mapbox GL JS, and GeoJSON. Led a distributed team, integrated AWS and GCP services for scalable data processing, and set best practices for remote collaboration and CI/CD."
       },
       {
-        "company": " University of Texas Health Science Center ",
-        "title": "Web Developer III ",
-        "years": "Aug 2019 - May 2020",
-        "description": ""
+        "company": "UT Health Science Center at Houston",
+        "title": "Frontend Developer III",
+        "years": "August 2019 - May 2020",
+        "description": "Modernized university web systems for accessibility and SEO, led the migration to React, mentored teams, and implemented scalable frontend frameworks and inclusive UI standards."
       },
       {
         "company": "LKQ Corporation",
         "title": "Full Stack Engineer",
         "years": "Nov 2017 - Aug 2019",
-        "description": "Responsible for technical SEO and maintaining LKQ websites fixing bugs and applying updates and adding features as needed, tasked with creating front end interface of a b2b web application for APO division."
+        "description": "Maintained and enhanced LKQ’s B2B web applications, focusing on technical SEO, bug fixing, and feature development. Built user interfaces and supported backend systems for business operations."
       },
       {
         "company": "Find-Marketing",
         "title": "Front End Developer",
         "years": "Jan 2016 - Nov 2017",
-        "description": "Designed Developed & Launched several web applications using various technologies but mostly worked with React, Node, and Redux. Worked on several large and small scale applications focusing on maintenance, security, and efficiency of different web applications focused on making pages highly scalable and created high traffic solutions."
+        "description": "Designed, developed, and launched web applications with React, Node, and Redux. Emphasized scalable architecture, security, and efficient performance for high-traffic platforms."
       }
     ],
     "skills": [
       {
-        "name": "Typescript",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects",
-        "image": "images/tech/TSLogo.png"
-      },
-      {
-        "name": "GraphQL",
-        "description": "Javascript was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure.",
-        "image": "images/tech/GraphQL.png"
-      },
-      {
-        "name": "Vue",
-        "description": "I am in love with React It has grown on me and quickly became my go to js library this site was made with React along with several of my project",
-        "image": "images/tech/VueLogo.png"
-      },
-      {
-        "name": "Node JS",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
-        "image": "images/tech/node.jpg"
-      },
-      {
-        "name": "Python",
-        "description": "I use Express as my go to framework for node. It is my favorite becasue it is fast, non-opinionated and minimalistic. In my opinion it offers a simpler interface for creating my request endpoints,",
-        "image": "images/tech/Python.png"
-      },
-      {
-        "name": "React / React Native / Electron",
-        "description": "I have used many different database systems and I am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs ",
+        "name": "React",
+        "description": "Expert in building responsive and accessible web applications with React and TypeScript, leveraging component-based architecture.",
         "image": "images/tech/react.jpg"
       },
       {
+        "name": "TypeScript",
+        "description": "Advanced experience using TypeScript to develop robust, maintainable, and scalable web applications and APIs.",
+        "image": "images/tech/TSLogo.png"
+      },
+      {
+        "name": "Node.js",
+        "description": "Proficient in designing backend services and APIs with Node.js and Express, supporting high-traffic and scalable platforms.",
+        "image": "images/tech/node.jpg"
+      },
+      {
+        "name": "GraphQL",
+        "description": "Skilled in designing and consuming GraphQL APIs to build flexible, efficient data layers for modern applications.",
+        "image": "images/tech/GraphQL.png"
+      },
+      {
         "name": "Mapbox",
-        "description": "I use Semantic-UI more often than not when creating sites.Being able to handpick the components i actually need helps me reduce file size/load time not to mention the ease of customization",
+        "description": "Specialized in developing interactive geospatial visualizations and maps using Mapbox GL JS.",
         "image": "images/tech/Mapbox.png"
       },
       {
         "name": "Amazon Web Services",
-        "description": "I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "description": "Experience deploying and maintaining applications on AWS (S3, Lambda, CloudFront), focusing on reliability and scalability.",
         "image": "images/tech/AWSLogo.png"
+      },
+      {
+        "name": "Google Cloud Platform",
+        "description": "Worked with GCP for scalable cloud processing, data storage, and deployment in production applications.",
+        "image": "images/tech/gcplogo.png"
+      },
+      {
+        "name": "Figma",
+        "description": "Utilize Figma for UI design, prototyping, and collaborating with product and design teams to improve user experiences.",
+        "image": "images/tech/figma.png"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "React Mapbox Widget",
-        "category": "A React,Typescript and Mapbox widget created to display listings",
-        "image": "WidgetMapbox.png",
-        "url": "https://widgets.farmlandfinder.com/land-for-sale/"
+        "title": "Georgia Lottery",
+        "category": "A robust lottery platform developed for the Georgia Lottery, featuring custom UI flows built with React Native and seamless integration with a Node.js backend. Focused on regulatory compliance, accessibility, and a secure, engaging user experience.",
+        "image": "georgia-lottery.png",
+        "url": "https://apps.apple.com/us/app/georgia-lottery-official-app/id1041429575?ls=1"
       },
+
       {
-        "title": "React Geospatial Dropbox Enterprise App",
-        "category": "A geospatial dropbox for corporate customers",
-        "image": "FFCoverPhoto.png",
-        "url": "https://www.ffdev.farmlandfinder.com/"
+        "title": "EasyKnock",
+        "category": "A modern fintech platform for home refinancing and property solutions, built with React, TypeScript, and Node.js. Contributed to developing investor and customer-facing applications, enhanced cross-platform user experience, and optimized API performance for seamless, secure transactions.",
+        "image": "easy-knock.jpg",
+        "url": "https://www.easyknock.com/"
       }
     ]
   }
