@@ -6,9 +6,6 @@ function About({ data }) {
   const name = data.name;
   const profilepic = "images/" + data.image;
   const bio = data.bio;
-  const city = data.address.city;
-  const state = data.address.state;
-  const zip = data.address.zip;
   const email = data.email;
 
   return (
