@@ -10,10 +10,9 @@ function Portfolio({ data }) {
         <div className="item-wrap">
           <a href={project.url} title={project.title}>
             <img
-              style={{ height: "30rem", width: "50rem" }}
               alt={project.title}
               src={projectImage}
-              className="projects"
+              className="project-image"
             />
             <div className="overlay">
               <div className="portfolio-item-meta">
@@ -32,15 +31,7 @@ function Portfolio({ data }) {
       <div className="row">
         <div className="twelve columns collapsed">
           <h1>Check Out Some of My Works.</h1>
-          <div
-            id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              justifyContent: "space-between",
-            }}
-          >
+          <div id="portfolio-wrapper" className="portfolio-grid">
             {projects}
           </div>
         </div>

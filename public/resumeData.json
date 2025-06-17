@@ -109,20 +109,25 @@
     "projects": [
       {
         "title": "Georgia Lottery",
-        "category": "A robust lottery platform developed for the Georgia Lottery, featuring custom UI flows built with React Native and seamless integration with a Node.js backend. Focused on regulatory compliance, accessibility, and a secure, engaging user experience.",
+        "category": "Official Georgia Lottery mobile application built with React Native and integrated with a secure Node.js backend. Focused on regulatory compliance, accessibility, and user engagement, providing a seamless experience for lottery players across the state.",
         "image": "georgia-lottery.png",
         "url": "https://apps.apple.com/us/app/georgia-lottery-official-app/id1041429575?ls=1"
       },
-
       {
         "title": "EasyKnock",
-        "category": "A modern fintech platform for home refinancing and property solutions, built with React, TypeScript, and Node.js. Contributed to developing investor and customer-facing applications, enhanced cross-platform user experience, and optimized API performance for seamless, secure transactions.",
+        "category": "A fintech platform offering home refinancing and property solutions. Contributed to building scalable customer and investor-facing applications using React, TypeScript, and Node.js. Focused on improving form usability, streamlining onboarding, and enhancing API performance for smoother transactions.",
         "image": "easy-knock.jpg",
         "url": "https://www.easyknock.com/"
       },
       {
-        "title": "React Sorting Algo",
-        "category": "Just a fun project i did as a challenge for myself",
+        "title": "Short Term Rental Lookup",
+        "category": "An experimental side project using Node.js, Express, Puppeteer, and React to scrape Airbnb listings and surface data for short-term rental insights. Features a clean UI built with MUI and TypeScript. Laid the groundwork for a tool to monitor potential rental violations.",
+        "image": "str-monitoring.png",
+        "url": "https://strmonitoring.com/service/one-time"
+      },
+      {
+        "title": "React Sorting Visualizer",
+        "category": "A self-directed challenge project to visualize classic sorting algorithms using React. Features animated comparisons and intuitive controls, designed for educational and demonstration purposes.",
         "image": "ReactSorting.jpg",
         "url": "https://lovely-raindrop-49af19.netlify.app/"
       }
