@@ -1,10 +1,30 @@
 import React from "react";
+import { useEffect, useState } from "react";
 
 function Header({ data }) {
   if (!data) return null;
 
   const name = data.name;
   const city = data.address.city;
+
+  const [activeHash, setActiveHash] = useState(() => {
+    if (typeof window !== "undefined") {
+      return window.location.hash || "#home";
+    }
+    return "#home";
+  });
+
+  useEffect(() => {
+    const handleHashChange = () => {
+      setActiveHash(window.location.hash || "#home");
+    };
+
+    window.addEventListener("hashchange", handleHashChange);
+    return () => window.removeEventListener("hashchange", handleHashChange);
+  }, []);
+
+  const isActive = (hash) =>
+    activeHash === hash || (hash === "#home" && activeHash === "");
 
   return (
     <header id="home">
@@ -17,23 +37,23 @@ function Header({ data }) {
         </a>
 
         <ul id="nav" className="nav">
-          <li className="current">
+          <li className={isActive("#home") ? "current" : ""}>
             <a className="smoothscroll" href="#home">
               Home
             </a>
           </li>
-          <li>
+          <li className={isActive("#about") ? "current" : ""}>
             <a className="smoothscroll" href="#about">
               About
             </a>
           </li>
-          <li>
+          <li className={isActive("#resume") ? "current" : ""}>
             <a className="smoothscroll" href="#resume">
               Resume
             </a>
           </li>
-          <li>
-            <a className="smoothscroll" href="#portfoliolink">
+          <li className={isActive("#projects") ? "current" : ""}>
+            <a className="smoothscroll" href="#projects">
               Projects
             </a>
           </li>
