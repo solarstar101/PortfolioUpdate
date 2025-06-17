@@ -119,6 +119,12 @@
         "category": "A modern fintech platform for home refinancing and property solutions, built with React, TypeScript, and Node.js. Contributed to developing investor and customer-facing applications, enhanced cross-platform user experience, and optimized API performance for seamless, secure transactions.",
         "image": "easy-knock.jpg",
         "url": "https://www.easyknock.com/"
+      },
+      {
+        "title": "React Sorting Algo",
+        "category": "Just a fun project i did as a challenge for myself",
+        "image": "ReactSorting.jpg",
+        "url": "https://lovely-raindrop-49af19.netlify.app/"
       }
     ]
   }
