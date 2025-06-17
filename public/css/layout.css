@@ -531,7 +531,6 @@ img.skill {
   display: block;
   cursor: pointer;
 }
-
 /* overlay */
 .portfolio-item .item-wrap .overlay {
   position: absolute;
@@ -539,68 +538,50 @@ img.skill {
   top: 0;
   width: 100%;
   height: 100%;
+  background: rgba(0, 0, 0, 0.7); /* Better contrast for text */
 
-  opacity: 0;
-  -moz-opacity: 0;
-  filter: alpha(opacity=0);
-
-  -webkit-transition: opacity 0.3s ease-in-out;
-  -moz-transition: opacity 0.3s ease-in-out;
-  -o-transition: opacity 0.3s ease-in-out;
-  transition: opacity 0.3s ease-in-out;
-
-  background: url(../images/overlay-bg.png) repeat;
-}
-.portfolio-item .item-wrap .link-icon {
-  display: block;
-  color: #fff;
-  height: 30px;
-  width: 30px;
-  font-size: 18px;
-  line-height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 
   opacity: 0;
-  -moz-opacity: 0;
-  filter: alpha(opacity=0);
-
-  -webkit-transition: opacity 0.3s ease-in-out;
-  -moz-transition: opacity 0.3s ease-in-out;
-  -o-transition: opacity 0.3s ease-in-out;
   transition: opacity 0.3s ease-in-out;
+}
 
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-left: -15px;
-  margin-top: -15px;
-}
-.portfolio-item .item-wrap img {
-  vertical-align: bottom;
-}
 .portfolio-item .portfolio-item-meta {
-  padding: 18px;
+  padding: 24px;
+  max-width: 90%;
 }
+
 .portfolio-item .portfolio-item-meta h5 {
-  font: 14px/21px "opensans-bold", sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  font-weight: 600;
   color: #fff;
+  margin: 0 0 8px 0;
 }
+
 .portfolio-item .portfolio-item-meta p {
-  font: 12px/18px "opensans-light", sans-serif;
-  color: #c6c7c7;
-  margin-bottom: 0;
+  font-size: 16px;
+  line-height: 1.4;
+  font-weight: 300;
+  color: #e0e0e0;
+  margin: 0;
 }
 
 /* on hover */
 .portfolio-item:hover .overlay {
   opacity: 1;
-  -moz-opacity: 1;
-  filter: alpha(opacity=100);
 }
-.portfolio-item:hover .link-icon {
-  opacity: 1;
-  -moz-opacity: 1;
-  filter: alpha(opacity=100);
+
+.portfolio-item .item-wrap img {
+  vertical-align: bottom;
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 6px;
 }
 
 /* popup modal */
